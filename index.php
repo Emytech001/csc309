@@ -16,8 +16,7 @@
                 $sql = "SELECT * FROM users ORDER BY id DESC";
                 
                 $result = $con->query($sql);
-            
-                ?>
+?>
 
 <!DOCTYPE html>
 <html>
